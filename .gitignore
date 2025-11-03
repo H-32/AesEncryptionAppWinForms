@@ -416,3 +416,10 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+# === Custom ignores for AES Encryption App ===
+# Ignore publish output and portable EXE builds
+app.publish/
+*.exe
+*.dll
+*.pdb
+*.zip
