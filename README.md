@@ -89,5 +89,5 @@ This project is open-source under the **MIT License** — you can freely use, mo
 
 **Hussein Ahmed Kazem**  
 GitHub: [H-32](https://github.com/H-32)  
-📧 your.email@example.com  
+📧 huessinaltai@gmail.com
 🕹️ Developed for educational and research purposes.
