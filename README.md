@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://github.com/H-32/AesEncryptionAppWinForms"><img alt="Repo" src="https://img.shields.io/badge/GitHub-AesEncryptionAppWinForms-181717?logo=github"></a>
+  <img alt=".NET Framework" src="https://img.shields.io/badge/.NET%20Framework-4.7.2-5C2D91">
+  <img alt="WinForms" src="https://img.shields.io/badge/WinForms-Desktop%20App-26A641">
+  <img alt="AES-256" src="https://img.shields.io/badge/Crypto-AES--256-blue">
+  <a href="https://opensource.org/licenses/MIT"><img alt="License" src="https://img.shields.io/badge/License-MIT-yellow"></a>
+</p>
+
 # 🔐 AES Encryption App – by Hussein Ahmed Kazem (C# WinForms)
 
 A simple and secure AES file encryption tool built with **C# WinForms**.  
