@@ -93,6 +93,14 @@ This project is open-source under the **MIT License** — you can freely use, mo
 
 ---
 
+---
+## Project Status
+
+This project is currently maintained for learning, testing, and development purposes.  
+Future improvements may include better documentation, more examples, and code cleanup.
+
+---
+
 ## 👤 Author
 
 **Hussein Ahmed Kazem**  
